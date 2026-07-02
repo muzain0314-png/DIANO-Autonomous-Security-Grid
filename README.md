@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/f993f4bd-1d0a-4824-b3e8-89a52b86cc96
+
 # 🛡️ DIANO Autonomous Security Grid v4.0
 
 DIANO is an advanced, AI-driven **Autonomous Intrusion Response System** designed to protect enterprise networks from malicious threats. Powered by a trained BigML neural network model, the system continuously monitors live network traffic, detects anomalies with high confidence, and executes zero-touch mitigation countermeasures.
