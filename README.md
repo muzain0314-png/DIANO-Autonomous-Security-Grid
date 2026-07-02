@@ -1,6 +1,8 @@
 
 
-https://github.com/user-attachments/assets/f993f4bd-1d0a-4824-b3e8-89a52b86cc96
+https://github.com/user-attachments/assets/571c060c-16da-4b15-8d8b-a7fd9201dbdd
+
+
 
 # 🛡️ DIANO Autonomous Security Grid v4.0
 
